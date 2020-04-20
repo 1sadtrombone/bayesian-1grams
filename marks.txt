@@ -1,0 +1,56 @@
+Final Project Marks
+----------------------------------------
+----------------------------------------
+Clear description of your problem: 5/5
+Approach to your problem: 10/10
+Technical execution: 25/25
+Documentation and testing: 4/5
+Presentation of results: 5/5
+Interpretation of results: 8/10
+Overall communication: 5/5
+
+SUBTOTAL: 62/65
+
+Creativity + critical thinking bonus: 5/10
+
+TOTAL: 67/65
+
+----------------------------------------
+General comments
+----------------------------------------
+
+This was quite a wonderful project! An
+extremely interesting idea, and generally
+this was quite well-executed.
+
+I appreciated the try...except error 
+raising. Good effort in writing robust
+code. Generally a reasonable amount
+of commenting, but a little more documentation
+would've been nice.
+
+Although I suspect it made very little difference
+to the final results, I wonder if the hack for
+zero probabilities was necessary. A judicious
+use of np.inf and some if statements would
+probably have done the trick.
+
+I very much liked that you did some test "books"
+before putting in real books. Good software
+writing practice.
+
+While the posterior for "Great Expectations" was
+indeed quite broad, I think "Beyond Light" was
+actually quite narrow! You're plotting the log
+probability, so given the numbers on your vertical
+axis, the probabilities actually drop off quite
+quickly. On the other hand, this does emphasize
+the fact that some smoothing would probably be
+a good idea.
+
+It has been a real pleasure having you in my classes
+these last two years! I hope you have a restful
+and an enjoyable summer!
+
+Best,
+Adrian
